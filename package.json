@@ -1,11 +1,11 @@
 {
-  "name": "insomnia_plugin",
+  "name": "insomnia-plugin-helpers",
   "version": "1.0.0",
-  "description": "Custom functions for use inside insomnia",
+  "description": "Helper functions for use inside insomnia",
   "main": "plugin.js",
   "insomnia": {
-    "name": "kochava_helpers",
-    "displayName": "Kochava Helper Functions",
+    "name": "insomnia_helpers",
+    "displayName": "Simple Helper Functions",
     "description": "A handful of convenient additions for Insomnia",
     "publisher": {
       "name": "Jimmy Keith"
