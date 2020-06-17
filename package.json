@@ -1,0 +1,20 @@
+{
+  "name": "insomnia_plugin",
+  "version": "1.0.0",
+  "description": "Custom functions for use inside insomnia",
+  "main": "plugin.js",
+  "insomnia": {
+    "name": "kochava_helpers",
+    "displayName": "Kochava Helper Functions",
+    "description": "A handful of convenient additions for Insomnia",
+    "publisher": {
+      "name": "Jimmy Keith"
+    }
+  },
+  "author": "jimmykodes",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "lodash": "^4.17.15"
+  }
+}
