@@ -10,6 +10,9 @@ To use, add the tag, then click on it and define the path to the Faker.js functi
 fake.name.firstName()
 // the path would be
 name.firstName
+
+// currently no support yet for
+fake.date.between(d1, d2)
 ```
 
 ## Install
